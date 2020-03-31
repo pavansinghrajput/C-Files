@@ -1,3 +1,5 @@
+//wrong values still need to be handled.
+
 char* timeConversion(char* s) {
     static char t[10];
 
